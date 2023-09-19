@@ -1,0 +1,27 @@
+.spacer60 {
+    height: 60px;
+    width: 100%;
+}
+
+.spacer10 {
+    height: 10px;
+    width: 100%;
+}
+
+.anchor-link {
+    text-decoration: none;
+}
+
+.scroll-top-right {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 30px;
+    bottom: -900px
+}
+
+.scroll-top-right i {
+    color: var(#cea135);
+    text-decoration: none;
+}
